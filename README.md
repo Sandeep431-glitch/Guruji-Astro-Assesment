@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Hosted link
+  https://my-guruji-astro-frontend.onrender.com/
+  
 ## Available Scripts
 
 In the project directory, you can run:
